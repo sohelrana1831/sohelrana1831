@@ -1,82 +1,148 @@
 # Sohel Rana
-### Software Engineer — Building Reliable Web Products
 
-One strong sentence explaining:
-what you build + who you help + your strongest technical value.
+### Software Engineer — React • Next.js • TypeScript • Node.js
+
+> One short sentence about what you build and what kind of problems you solve.
 
 [Portfolio] · [LinkedIn] · [Email]
 
 ---
 
-## ⚡ What I Bring to a Product
+## What I Bring
 
-Not a generic "About Me."
-
-→ Production-focused frontend architecture
-→ Complex React / Next.js applications
-→ Type-safe full-stack development
-→ API & third-party integrations
-→ Performance and maintainability
-→ Turning Figma into polished interfaces
+* Production-ready web applications
+* Scalable frontend architecture
+* Responsive & accessible UI
+* API integration
+* Performance optimization
+* Maintainable codebases
 
 ---
 
-## 🧩 Selected Engineering Work
+## Selected Engineering Work
 
 ### 01 — Project Name
-**The challenge**
-What real problem needed to be solved?
 
-**What I engineered**
-Your specific contribution and important decisions.
+**Problem**
+Short explanation of the business/product problem.
+
+**What I Built**
+What you personally designed or implemented.
+
+**Engineering Decisions**
+Important technical decisions or challenges.
 
 **Impact**
-Performance / usability / business improvement.
+Performance, UX, automation, reliability, or business result.
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+`Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
-[Live Product] · [Case Study] · [Source]
+[Live Demo] · [Repository]
 
 ---
 
 ### 02 — Project Name
 
-Problem → Engineering → Result
+**Problem**
+
+**What I Built**
+
+**Engineering Decisions**
+
+**Impact**
+
+`React` `TypeScript` `REST API`
+
+[Live Demo] · [Repository]
 
 ---
 
 ### 03 — Project Name
 
-Problem → Engineering → Result
+**Problem**
+
+**What I Built**
+
+**Engineering Decisions**
+
+**Impact**
+
+[Live Demo] · [Repository]
 
 ---
 
-## 🏗️ How I Think About Engineering
+## How I Approach Engineering
 
 ### Architecture
-Scalable boundaries, reusable components, clean data flow.
 
-### Product
-Solve the user's problem before adding complexity.
+Short explanation.
 
-### Quality
-Type safety, testing, accessibility and maintainability.
+### Product Thinking
+
+Short explanation.
+
+### Code Quality
+
+Short explanation.
 
 ### Performance
-Measure first. Optimize what actually matters.
+
+Short explanation.
 
 ---
 
-## 🔬 Inside My Code
+## Core Stack
 
-A small real architecture/code example.
+**Frontend**
+
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend**
+
+Node.js · Express.js · REST APIs
+
+**Database**
+
+PostgreSQL · MongoDB · Prisma
+
+**Engineering**
+
+Git · Docker · Testing · CI/CD
+
+---
+
+## Engineering Snapshot
 
 ```text
-src/
-├── app/
-├── features/
-├── components/
-├── services/
-├── hooks/
-├── lib/
-└── types/
+Primary Focus      → Full-Stack Web Applications
+Frontend           → React / Next.js
+Backend            → Node.js / Express
+Database           → PostgreSQL / MongoDB
+Architecture       → Scalable & Maintainable Systems
+Working Style      → Remote / Async Collaboration
+```
+
+---
+
+## Currently Exploring
+
+* System Design
+* Advanced Next.js Architecture
+* Docker & CI/CD
+* AI-powered Web Applications
+
+---
+
+## Engineering Notes
+
+* Article / Note 01
+* Article / Note 02
+* Article / Note 03
+
+---
+
+## Let's Build Something
+
+I'm interested in working on SaaS products, complex web applications, dashboards, and products where frontend quality and maintainability matter.
+
+[Portfolio] · [LinkedIn] · [Email]
