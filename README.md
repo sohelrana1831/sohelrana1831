@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sohel Rana 👋
 
-<!--
-**sohelrana1831/sohelrana1831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Software Engineer with 7+ years of experience building scalable web applications, SaaS products, and business solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
+React.js • Next.js • TypeScript • Node.js • PostgreSQL • MongoDB • Prisma • Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Project Name](LIVE_URL) — One-line description
+- [Project Name](LIVE_URL) — One-line description
+
+## Contact
+[LinkedIn](YOUR_LINK) • [Portfolio](YOUR_LINK) • [Email](mailto:YOUR_EMAIL)
